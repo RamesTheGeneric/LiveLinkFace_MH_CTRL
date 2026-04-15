@@ -1,0 +1,4241 @@
+{
+    "inputs": [
+        {
+            "default": 0,
+            "name": "CTRL_L_brow_down.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_brow_down.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_brow_lateral.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_brow_lateral.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_brow_raiseIn.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_brow_raiseIn.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_brow_raiseOut.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_brow_raiseOut.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_ear_up.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_ear_up.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye_blink.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye_blink.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye_lidPress.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye_lidPress.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye_squintInner.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye_squintInner.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye_cheekRaise.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye_cheekRaise.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye_faceScrunch.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye_faceScrunch.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye_eyelidU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye_eyelidU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye_eyelidD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye_eyelidD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eye_pupil.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eye_pupil.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_eye_parallelLook.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eyelashes_tweakerIn.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eyelashes_tweakerIn.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_eyelashes_tweakerOut.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_eyelashes_tweakerOut.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_nose.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_nose.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_nose.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_nose.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 1,
+            "name": "CTRL_L_nose_wrinkleUpper.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 1,
+            "name": "CTRL_R_nose_wrinkleUpper.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_nose_nasolabialDeepen.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_nose_nasolabialDeepen.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_suckBlow.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_suckBlow.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipsBlow.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipsBlow.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_mouth.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_mouth.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_upperLipRaise.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_upperLipRaise.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lowerLipDepress.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lowerLipDepress.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_cornerPull.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_cornerPull.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_stretch.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_stretch.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_stretchLipsClose.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_stretchLipsClose.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_dimple.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_dimple.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_cornerDepress.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_cornerDepress.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_pressU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_pressU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_pressD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_pressD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_purseU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_purseU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_purseD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_purseD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_towardsU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_towardsU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_towardsD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_towardsD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_funnelU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_funnelU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_funnelD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_funnelD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipsTogetherU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipsTogetherU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipsTogetherD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipsTogetherD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipBiteU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipBiteU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipBiteD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipBiteD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_tightenU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_tightenU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_tightenD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_tightenD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipsPressU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipsPressU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_sharpCornerPull.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_sharpCornerPull.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_mouth_stickyU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_stickyInnerU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_stickyInnerU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_stickyOuterU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_stickyOuterU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_mouth_stickyD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_stickyInnerD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_stickyInnerD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_stickyOuterD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_stickyOuterD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipSticky.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipSticky.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_pushPullU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_pushPullU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_pushPullD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_pushPullD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_thicknessU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_thicknessU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_thicknessD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_thicknessD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_thicknessInwardU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_thicknessInwardU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_thicknessInwardD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_thicknessInwardD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_cornerSharpnessU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_cornerSharpnessU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_cornerSharpnessD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_cornerSharpnessD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipsTowardsTeethU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipsTowardsTeethU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipsTowardsTeethD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipsTowardsTeethD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_mouth_lipShiftU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_mouth_lipShiftD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipsRollU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipsRollU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_lipsRollD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_lipsRollD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_corner.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_mouth_corner.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_corner.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_mouth_corner.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_inOut.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_move.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_move.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_press.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_wideNarrow.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_bendTwist.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_bendTwist.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_roll.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_tipMove.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_tipMove.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_tongue_thickThin.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_jaw.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_jaw.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_jaw_fwdBack.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_jaw_clench.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_jaw_clench.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_jaw_ChinRaiseU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_jaw_ChinRaiseU.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_jaw_ChinRaiseD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_jaw_ChinRaiseD.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_jaw_chinCompress.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_jaw_chinCompress.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_jaw_openExtreme.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_neck_stretch.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_neck_stretch.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_neck_swallow.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_L_neck_mastoidContract.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_R_neck_mastoidContract.ty",
+            "range": {
+                "end": 1,
+                "start": 0
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_neck_throatUpDown.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_neck_digastricUpDown.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_neck_throatExhaleInhale.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_teethU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_teethU.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_teeth_fwdBackU.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_teethD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_teethD.tx",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        },
+        {
+            "default": 0,
+            "name": "CTRL_C_teeth_fwdBackD.ty",
+            "range": {
+                "end": 1,
+                "start": -1
+            }
+        }
+    ],
+    "mappings": [
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_brow_down.ty",
+            "outputName": "CTRL_expressions_browDownL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_brow_down.ty",
+            "outputName": "CTRL_expressions_browDownR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_brow_lateral.ty",
+            "outputName": "CTRL_expressions_browLateralL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_brow_lateral.ty",
+            "outputName": "CTRL_expressions_browLateralR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_brow_raiseIn.ty",
+            "outputName": "CTRL_expressions_browRaiseInL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_brow_raiseIn.ty",
+            "outputName": "CTRL_expressions_browRaiseInR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_brow_raiseOut.ty",
+            "outputName": "CTRL_expressions_browRaiseOuterL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_brow_raiseOut.ty",
+            "outputName": "CTRL_expressions_browRaiseOuterR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_ear_up.ty",
+            "outputName": "CTRL_expressions_earUpL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_ear_up.ty",
+            "outputName": "CTRL_expressions_earUpR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_blink.ty",
+            "outputName": "CTRL_expressions_eyeBlinkL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_blink.ty",
+            "outputName": "CTRL_expressions_eyeBlinkR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_lidPress.ty",
+            "outputName": "CTRL_expressions_eyeLidPressL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_lidPress.ty",
+            "outputName": "CTRL_expressions_eyeLidPressR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_blink.ty",
+            "outputName": "CTRL_expressions_eyeWidenL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_blink.ty",
+            "outputName": "CTRL_expressions_eyeWidenR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_squintInner.ty",
+            "outputName": "CTRL_expressions_eyeSquintInnerL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_squintInner.ty",
+            "outputName": "CTRL_expressions_eyeSquintInnerR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_cheekRaise.ty",
+            "outputName": "CTRL_expressions_eyeCheekRaiseL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_cheekRaise.ty",
+            "outputName": "CTRL_expressions_eyeCheekRaiseR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_faceScrunch.ty",
+            "outputName": "CTRL_expressions_eyeFaceScrunchL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_faceScrunch.ty",
+            "outputName": "CTRL_expressions_eyeFaceScrunchR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_eyelidU.ty",
+            "outputName": "CTRL_expressions_eyeUpperLidUpL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_eyelidU.ty",
+            "outputName": "CTRL_expressions_eyeUpperLidUpR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_eyelidU.ty",
+            "outputName": "CTRL_expressions_eyeRelaxL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_eyelidU.ty",
+            "outputName": "CTRL_expressions_eyeRelaxR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_eyelidD.ty",
+            "outputName": "CTRL_expressions_eyeLowerLidUpL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_eyelidD.ty",
+            "outputName": "CTRL_expressions_eyeLowerLidUpR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_eyelidD.ty",
+            "outputName": "CTRL_expressions_eyeLowerLidDownL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_eyelidD.ty",
+            "outputName": "CTRL_expressions_eyeLowerLidDownR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye.ty",
+            "outputName": "CTRL_expressions_eyeLookUpL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye.ty",
+            "outputName": "CTRL_expressions_eyeLookUpR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye.ty",
+            "outputName": "CTRL_expressions_eyeLookDownL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye.ty",
+            "outputName": "CTRL_expressions_eyeLookDownR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye.tx",
+            "outputName": "CTRL_expressions_eyeLookLeftL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye.tx",
+            "outputName": "CTRL_expressions_eyeLookLeftR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye.tx",
+            "outputName": "CTRL_expressions_eyeLookRightL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye.tx",
+            "outputName": "CTRL_expressions_eyeLookRightR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_pupil.ty",
+            "outputName": "CTRL_expressions_eyePupilWideL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_pupil.ty",
+            "outputName": "CTRL_expressions_eyePupilWideR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eye_pupil.ty",
+            "outputName": "CTRL_expressions_eyePupilNarrowL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eye_pupil.ty",
+            "outputName": "CTRL_expressions_eyePupilNarrowR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_eye_parallelLook.ty",
+            "outputName": "CTRL_expressions_eyeParallelLookDirection",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eyelashes_tweakerIn.ty",
+            "outputName": "CTRL_expressions_eyelashesUpINL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eyelashes_tweakerIn.ty",
+            "outputName": "CTRL_expressions_eyelashesUpINR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eyelashes_tweakerOut.ty",
+            "outputName": "CTRL_expressions_eyelashesUpOUTL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eyelashes_tweakerOut.ty",
+            "outputName": "CTRL_expressions_eyelashesUpOUTR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eyelashes_tweakerIn.ty",
+            "outputName": "CTRL_expressions_eyelashesDownINL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eyelashes_tweakerIn.ty",
+            "outputName": "CTRL_expressions_eyelashesDownINR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_eyelashes_tweakerOut.ty",
+            "outputName": "CTRL_expressions_eyelashesDownOUTL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_eyelashes_tweakerOut.ty",
+            "outputName": "CTRL_expressions_eyelashesDownOUTR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_nose.ty",
+            "outputName": "CTRL_expressions_noseWrinkleL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_nose.ty",
+            "outputName": "CTRL_expressions_noseWrinkleR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_nose_wrinkleUpper.ty",
+            "outputName": "CTRL_expressions_noseWrinkleUpperL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_nose_wrinkleUpper.ty",
+            "outputName": "CTRL_expressions_noseWrinkleUpperR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_nose.ty",
+            "outputName": "CTRL_expressions_noseNostrilDepressL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_nose.ty",
+            "outputName": "CTRL_expressions_noseNostrilDepressR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_nose.tx",
+            "outputName": "CTRL_expressions_noseNostrilDilateL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_nose.tx",
+            "outputName": "CTRL_expressions_noseNostrilDilateR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_nose.tx",
+            "outputName": "CTRL_expressions_noseNostrilCompressL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_nose.tx",
+            "outputName": "CTRL_expressions_noseNostrilCompressR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_nose_nasolabialDeepen.ty",
+            "outputName": "CTRL_expressions_noseNasolabialDeepenL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_nose_nasolabialDeepen.ty",
+            "outputName": "CTRL_expressions_noseNasolabialDeepenR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_suckBlow.ty",
+            "outputName": "CTRL_expressions_mouthCheekSuckL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_suckBlow.ty",
+            "outputName": "CTRL_expressions_mouthCheekSuckR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_suckBlow.ty",
+            "outputName": "CTRL_expressions_mouthCheekBlowL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_suckBlow.ty",
+            "outputName": "CTRL_expressions_mouthCheekBlowR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsBlow.ty",
+            "outputName": "CTRL_expressions_mouthLipsBlowL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsBlow.ty",
+            "outputName": "CTRL_expressions_mouthLipsBlowR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth.tx",
+            "outputName": "CTRL_expressions_mouthLeft",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth.tx",
+            "outputName": "CTRL_expressions_mouthRight",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth.ty",
+            "outputName": "CTRL_expressions_mouthUp",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth.ty",
+            "outputName": "CTRL_expressions_mouthDown",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_upperLipRaise.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipRaiseL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_upperLipRaise.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipRaiseR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lowerLipDepress.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipDepressL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lowerLipDepress.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipDepressR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_cornerPull.ty",
+            "outputName": "CTRL_expressions_mouthCornerPullL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_cornerPull.ty",
+            "outputName": "CTRL_expressions_mouthCornerPullR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_stretch.ty",
+            "outputName": "CTRL_expressions_mouthStretchL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_stretch.ty",
+            "outputName": "CTRL_expressions_mouthStretchR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_stretchLipsClose.ty",
+            "outputName": "CTRL_expressions_mouthStretchLipsCloseL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_stretchLipsClose.ty",
+            "outputName": "CTRL_expressions_mouthStretchLipsCloseR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_dimple.ty",
+            "outputName": "CTRL_expressions_mouthDimpleL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_dimple.ty",
+            "outputName": "CTRL_expressions_mouthDimpleR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_cornerDepress.ty",
+            "outputName": "CTRL_expressions_mouthCornerDepressL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_cornerDepress.ty",
+            "outputName": "CTRL_expressions_mouthCornerDepressR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_pressU.ty",
+            "outputName": "CTRL_expressions_mouthPressUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_pressU.ty",
+            "outputName": "CTRL_expressions_mouthPressUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_pressD.ty",
+            "outputName": "CTRL_expressions_mouthPressDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_pressD.ty",
+            "outputName": "CTRL_expressions_mouthPressDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_purseU.ty",
+            "outputName": "CTRL_expressions_mouthLipsPurseUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_purseU.ty",
+            "outputName": "CTRL_expressions_mouthLipsPurseUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_purseD.ty",
+            "outputName": "CTRL_expressions_mouthLipsPurseDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_purseD.ty",
+            "outputName": "CTRL_expressions_mouthLipsPurseDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_towardsU.ty",
+            "outputName": "CTRL_expressions_mouthLipsTowardsUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_towardsU.ty",
+            "outputName": "CTRL_expressions_mouthLipsTowardsUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_towardsD.ty",
+            "outputName": "CTRL_expressions_mouthLipsTowardsDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_towardsD.ty",
+            "outputName": "CTRL_expressions_mouthLipsTowardsDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_funnelU.ty",
+            "outputName": "CTRL_expressions_mouthFunnelUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_funnelU.ty",
+            "outputName": "CTRL_expressions_mouthFunnelUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_funnelD.ty",
+            "outputName": "CTRL_expressions_mouthFunnelDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_funnelD.ty",
+            "outputName": "CTRL_expressions_mouthFunnelDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsTogetherU.ty",
+            "outputName": "CTRL_expressions_mouthLipsTogetherUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsTogetherU.ty",
+            "outputName": "CTRL_expressions_mouthLipsTogetherUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsTogetherD.ty",
+            "outputName": "CTRL_expressions_mouthLipsTogetherDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsTogetherD.ty",
+            "outputName": "CTRL_expressions_mouthLipsTogetherDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipBiteU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipBiteL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipBiteU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipBiteR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipBiteD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipBiteL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipBiteD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipBiteR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_tightenU.ty",
+            "outputName": "CTRL_expressions_mouthLipsTightenUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_tightenU.ty",
+            "outputName": "CTRL_expressions_mouthLipsTightenUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_tightenD.ty",
+            "outputName": "CTRL_expressions_mouthLipsTightenDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_tightenD.ty",
+            "outputName": "CTRL_expressions_mouthLipsTightenDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsPressU.ty",
+            "outputName": "CTRL_expressions_mouthLipsPressL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsPressU.ty",
+            "outputName": "CTRL_expressions_mouthLipsPressR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_sharpCornerPull.ty",
+            "outputName": "CTRL_expressions_mouthSharpCornerPullL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_sharpCornerPull.ty",
+            "outputName": "CTRL_expressions_mouthSharpCornerPullR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth_stickyU.ty",
+            "outputName": "CTRL_expressions_mouthStickyUC",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_stickyInnerU.ty",
+            "outputName": "CTRL_expressions_mouthStickyUINL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_stickyInnerU.ty",
+            "outputName": "CTRL_expressions_mouthStickyUINR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_stickyOuterU.ty",
+            "outputName": "CTRL_expressions_mouthStickyUOUTL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_stickyOuterU.ty",
+            "outputName": "CTRL_expressions_mouthStickyUOUTR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth_stickyD.ty",
+            "outputName": "CTRL_expressions_mouthStickyDC",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_stickyInnerD.ty",
+            "outputName": "CTRL_expressions_mouthStickyDINL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_stickyInnerD.ty",
+            "outputName": "CTRL_expressions_mouthStickyDINR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_stickyOuterD.ty",
+            "outputName": "CTRL_expressions_mouthStickyDOUTL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_stickyOuterD.ty",
+            "outputName": "CTRL_expressions_mouthStickyDOUTR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyLPh1",
+            "range": {
+                "end": 0.33,
+                "start": 0
+            },
+            "slope": 3.0303
+        },
+        {
+            "cut": 2,
+            "inputName": "CTRL_L_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyLPh1",
+            "range": {
+                "end": 0.66,
+                "start": 0.33
+            },
+            "slope": -3.0303
+        },
+        {
+            "cut": -1,
+            "inputName": "CTRL_L_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyLPh2",
+            "range": {
+                "end": 0.66,
+                "start": 0.33
+            },
+            "slope": 3.0303
+        },
+        {
+            "cut": 2.94118,
+            "inputName": "CTRL_L_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyLPh2",
+            "range": {
+                "end": 1,
+                "start": 0.66
+            },
+            "slope": -2.94118
+        },
+        {
+            "cut": -1.94118,
+            "inputName": "CTRL_L_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyLPh3",
+            "range": {
+                "end": 1,
+                "start": 0.66
+            },
+            "slope": 2.94118
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyRPh1",
+            "range": {
+                "end": 0.33,
+                "start": 0
+            },
+            "slope": 3.0303
+        },
+        {
+            "cut": 2,
+            "inputName": "CTRL_R_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyRPh1",
+            "range": {
+                "end": 0.66,
+                "start": 0.33
+            },
+            "slope": -3.0303
+        },
+        {
+            "cut": -1,
+            "inputName": "CTRL_R_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyRPh2",
+            "range": {
+                "end": 0.66,
+                "start": 0.33
+            },
+            "slope": 3.0303
+        },
+        {
+            "cut": 2.94118,
+            "inputName": "CTRL_R_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyRPh2",
+            "range": {
+                "end": 1,
+                "start": 0.66
+            },
+            "slope": -2.94118
+        },
+        {
+            "cut": -1.94118,
+            "inputName": "CTRL_R_mouth_lipSticky.ty",
+            "outputName": "CTRL_expressions_mouthLipsStickyRPh3",
+            "range": {
+                "end": 1,
+                "start": 0.66
+            },
+            "slope": 2.94118
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_pushPullU.ty",
+            "outputName": "CTRL_expressions_mouthLipsPushUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_pushPullU.ty",
+            "outputName": "CTRL_expressions_mouthLipsPushUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_pushPullD.ty",
+            "outputName": "CTRL_expressions_mouthLipsPushDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_pushPullD.ty",
+            "outputName": "CTRL_expressions_mouthLipsPushDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_pushPullU.ty",
+            "outputName": "CTRL_expressions_mouthLipsPullUL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_pushPullU.ty",
+            "outputName": "CTRL_expressions_mouthLipsPullUR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_pushPullD.ty",
+            "outputName": "CTRL_expressions_mouthLipsPullDL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_pushPullD.ty",
+            "outputName": "CTRL_expressions_mouthLipsPullDR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_thicknessU.ty",
+            "outputName": "CTRL_expressions_mouthLipsThinUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_thicknessU.ty",
+            "outputName": "CTRL_expressions_mouthLipsThinUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_thicknessD.ty",
+            "outputName": "CTRL_expressions_mouthLipsThinDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_thicknessD.ty",
+            "outputName": "CTRL_expressions_mouthLipsThinDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_thicknessU.ty",
+            "outputName": "CTRL_expressions_mouthLipsThickUL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_thicknessU.ty",
+            "outputName": "CTRL_expressions_mouthLipsThickUR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_thicknessD.ty",
+            "outputName": "CTRL_expressions_mouthLipsThickDL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_thicknessD.ty",
+            "outputName": "CTRL_expressions_mouthLipsThickDR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_thicknessInwardU.ty",
+            "outputName": "CTRL_expressions_mouthLipsThinInwardUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_thicknessInwardU.ty",
+            "outputName": "CTRL_expressions_mouthLipsThinInwardUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_thicknessInwardD.ty",
+            "outputName": "CTRL_expressions_mouthLipsThinInwardDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_thicknessInwardD.ty",
+            "outputName": "CTRL_expressions_mouthLipsThinInwardDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_thicknessInwardU.ty",
+            "outputName": "CTRL_expressions_mouthLipsThickInwardUL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_thicknessInwardU.ty",
+            "outputName": "CTRL_expressions_mouthLipsThickInwardUR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_thicknessInwardD.ty",
+            "outputName": "CTRL_expressions_mouthLipsThickInwardDL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_thicknessInwardD.ty",
+            "outputName": "CTRL_expressions_mouthLipsThickInwardDR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_cornerSharpnessU.ty",
+            "outputName": "CTRL_expressions_mouthCornerSharpenUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_cornerSharpnessU.ty",
+            "outputName": "CTRL_expressions_mouthCornerSharpenUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_cornerSharpnessD.ty",
+            "outputName": "CTRL_expressions_mouthCornerSharpenDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_cornerSharpnessD.ty",
+            "outputName": "CTRL_expressions_mouthCornerSharpenDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_cornerSharpnessU.ty",
+            "outputName": "CTRL_expressions_mouthCornerRounderUL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_cornerSharpnessU.ty",
+            "outputName": "CTRL_expressions_mouthCornerRounderUR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_cornerSharpnessD.ty",
+            "outputName": "CTRL_expressions_mouthCornerRounderDL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_cornerSharpnessD.ty",
+            "outputName": "CTRL_expressions_mouthCornerRounderDR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsTowardsTeethU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipTowardsTeethL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsTowardsTeethU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipTowardsTeethR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsTowardsTeethD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipTowardsTeethL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsTowardsTeethD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipTowardsTeethR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth_lipShiftU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipShiftLeft",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth_lipShiftU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipShiftRight",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth_lipShiftD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipShiftLeft",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_mouth_lipShiftD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipShiftRight",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsRollU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipRollInL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsRollU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipRollInR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsRollU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipRollOutL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsRollU.ty",
+            "outputName": "CTRL_expressions_mouthUpperLipRollOutR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsRollD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipRollInL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsRollD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipRollInR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_lipsRollD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipRollOutL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_lipsRollD.ty",
+            "outputName": "CTRL_expressions_mouthLowerLipRollOutR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_corner.ty",
+            "outputName": "CTRL_expressions_mouthCornerUpL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_corner.ty",
+            "outputName": "CTRL_expressions_mouthCornerUpR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_corner.ty",
+            "outputName": "CTRL_expressions_mouthCornerDownL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_corner.ty",
+            "outputName": "CTRL_expressions_mouthCornerDownR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_corner.tx",
+            "outputName": "CTRL_expressions_mouthCornerWideL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_corner.tx",
+            "outputName": "CTRL_expressions_mouthCornerWideR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_mouth_corner.tx",
+            "outputName": "CTRL_expressions_mouthCornerNarrowL",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_mouth_corner.tx",
+            "outputName": "CTRL_expressions_mouthCornerNarrowR",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_jaw.ty",
+            "outputName": "CTRL_expressions_jawOpen",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_jaw.tx",
+            "outputName": "CTRL_expressions_jawLeft",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_jaw.tx",
+            "outputName": "CTRL_expressions_jawRight",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_jaw_fwdBack.ty",
+            "outputName": "CTRL_expressions_jawFwd",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_jaw_fwdBack.ty",
+            "outputName": "CTRL_expressions_jawBack",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_jaw_clench.ty",
+            "outputName": "CTRL_expressions_jawClenchL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_jaw_clench.ty",
+            "outputName": "CTRL_expressions_jawClenchR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_jaw_ChinRaiseD.ty",
+            "outputName": "CTRL_expressions_jawChinRaiseDL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_jaw_ChinRaiseD.ty",
+            "outputName": "CTRL_expressions_jawChinRaiseDR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_jaw_ChinRaiseU.ty",
+            "outputName": "CTRL_expressions_jawChinRaiseUL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_jaw_ChinRaiseU.ty",
+            "outputName": "CTRL_expressions_jawChinRaiseUR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_jaw_chinCompress.ty",
+            "outputName": "CTRL_expressions_jawChinCompressL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_jaw_chinCompress.ty",
+            "outputName": "CTRL_expressions_jawChinCompressR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_jaw_openExtreme.ty",
+            "outputName": "CTRL_expressions_jawOpenExtreme",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_neck_stretch.ty",
+            "outputName": "CTRL_expressions_neckStretchL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_neck_stretch.ty",
+            "outputName": "CTRL_expressions_neckStretchR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_neck_swallow.ty",
+            "outputName": "CTRL_expressions_neckSwallowPh1",
+            "range": {
+                "end": 0.2,
+                "start": 0
+            },
+            "slope": 5
+        },
+        {
+            "cut": 2,
+            "inputName": "CTRL_C_neck_swallow.ty",
+            "outputName": "CTRL_expressions_neckSwallowPh1",
+            "range": {
+                "end": 0.4,
+                "start": 0.2
+            },
+            "slope": -5
+        },
+        {
+            "cut": -1,
+            "inputName": "CTRL_C_neck_swallow.ty",
+            "outputName": "CTRL_expressions_neckSwallowPh2",
+            "range": {
+                "end": 0.4,
+                "start": 0.2
+            },
+            "slope": 5
+        },
+        {
+            "cut": 3,
+            "inputName": "CTRL_C_neck_swallow.ty",
+            "outputName": "CTRL_expressions_neckSwallowPh2",
+            "range": {
+                "end": 0.6,
+                "start": 0.4
+            },
+            "slope": -5
+        },
+        {
+            "cut": -2,
+            "inputName": "CTRL_C_neck_swallow.ty",
+            "outputName": "CTRL_expressions_neckSwallowPh3",
+            "range": {
+                "end": 0.6,
+                "start": 0.4
+            },
+            "slope": 5
+        },
+        {
+            "cut": 4,
+            "inputName": "CTRL_C_neck_swallow.ty",
+            "outputName": "CTRL_expressions_neckSwallowPh3",
+            "range": {
+                "end": 0.8,
+                "start": 0.6
+            },
+            "slope": -5
+        },
+        {
+            "cut": -3,
+            "inputName": "CTRL_C_neck_swallow.ty",
+            "outputName": "CTRL_expressions_neckSwallowPh4",
+            "range": {
+                "end": 0.8,
+                "start": 0.6
+            },
+            "slope": 5
+        },
+        {
+            "cut": 5,
+            "inputName": "CTRL_C_neck_swallow.ty",
+            "outputName": "CTRL_expressions_neckSwallowPh4",
+            "range": {
+                "end": 1,
+                "start": 0.8
+            },
+            "slope": -5
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_L_neck_mastoidContract.ty",
+            "outputName": "CTRL_expressions_neckMastoidContractL",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_R_neck_mastoidContract.ty",
+            "outputName": "CTRL_expressions_neckMastoidContractR",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_neck_throatUpDown.ty",
+            "outputName": "CTRL_expressions_neckThroatDown",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_neck_throatUpDown.ty",
+            "outputName": "CTRL_expressions_neckThroatUp",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_neck_digastricUpDown.ty",
+            "outputName": "CTRL_expressions_neckDigastricDown",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_neck_digastricUpDown.ty",
+            "outputName": "CTRL_expressions_neckDigastricUp",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_neck_throatExhaleInhale.ty",
+            "outputName": "CTRL_expressions_neckThroatExhale",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_neck_throatExhaleInhale.ty",
+            "outputName": "CTRL_expressions_neckThroatInhale",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teethU.ty",
+            "outputName": "CTRL_expressions_teethUpU",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teethD.ty",
+            "outputName": "CTRL_expressions_teethUpD",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teethU.ty",
+            "outputName": "CTRL_expressions_teethDownU",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teethD.ty",
+            "outputName": "CTRL_expressions_teethDownD",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teethU.tx",
+            "outputName": "CTRL_expressions_teethLeftU",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teethD.tx",
+            "outputName": "CTRL_expressions_teethLeftD",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teethU.tx",
+            "outputName": "CTRL_expressions_teethRightU",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teethD.tx",
+            "outputName": "CTRL_expressions_teethRightD",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teeth_fwdBackU.ty",
+            "outputName": "CTRL_expressions_teethFwdU",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teeth_fwdBackD.ty",
+            "outputName": "CTRL_expressions_teethFwdD",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teeth_fwdBackU.ty",
+            "outputName": "CTRL_expressions_teethBackU",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_teeth_fwdBackD.ty",
+            "outputName": "CTRL_expressions_teethBackD",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_move.ty",
+            "outputName": "CTRL_expressions_tongueUp",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_move.ty",
+            "outputName": "CTRL_expressions_tongueDown",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_move.tx",
+            "outputName": "CTRL_expressions_tongueLeft",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_move.tx",
+            "outputName": "CTRL_expressions_tongueRight",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_inOut.ty",
+            "outputName": "CTRL_expressions_tongueOut",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_inOut.ty",
+            "outputName": "CTRL_expressions_tongueIn",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_bendTwist.ty",
+            "outputName": "CTRL_expressions_tongueBendUp",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_bendTwist.ty",
+            "outputName": "CTRL_expressions_tongueBendDown",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_bendTwist.tx",
+            "outputName": "CTRL_expressions_tongueTwistLeft",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_bendTwist.tx",
+            "outputName": "CTRL_expressions_tongueTwistRight",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_tipMove.ty",
+            "outputName": "CTRL_expressions_tongueTipUp",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_tipMove.ty",
+            "outputName": "CTRL_expressions_tongueTipDown",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_tipMove.tx",
+            "outputName": "CTRL_expressions_tongueTipLeft",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_tipMove.tx",
+            "outputName": "CTRL_expressions_tongueTipRight",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_wideNarrow.ty",
+            "outputName": "CTRL_expressions_tongueWide",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_wideNarrow.ty",
+            "outputName": "CTRL_expressions_tongueNarrow",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_press.ty",
+            "outputName": "CTRL_expressions_tonguePress",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_roll.ty",
+            "outputName": "CTRL_expressions_tongueRoll",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_thickThin.ty",
+            "outputName": "CTRL_expressions_tongueThick",
+            "range": {
+                "end": 1,
+                "start": 0
+            },
+            "slope": 1
+        },
+        {
+            "cut": 0,
+            "inputName": "CTRL_C_tongue_thickThin.ty",
+            "outputName": "CTRL_expressions_tongueThin",
+            "range": {
+                "end": 0,
+                "start": -1
+            },
+            "slope": -1
+        }
+    ],
+    "outputs": [
+        "CTRL_expressions_browDownL",
+        "CTRL_expressions_browDownR",
+        "CTRL_expressions_browLateralL",
+        "CTRL_expressions_browLateralR",
+        "CTRL_expressions_browRaiseInL",
+        "CTRL_expressions_browRaiseInR",
+        "CTRL_expressions_browRaiseOuterL",
+        "CTRL_expressions_browRaiseOuterR",
+        "CTRL_expressions_earUpL",
+        "CTRL_expressions_earUpR",
+        "CTRL_expressions_eyeBlinkL",
+        "CTRL_expressions_eyeBlinkR",
+        "CTRL_expressions_eyeLidPressL",
+        "CTRL_expressions_eyeLidPressR",
+        "CTRL_expressions_eyeWidenL",
+        "CTRL_expressions_eyeWidenR",
+        "CTRL_expressions_eyeSquintInnerL",
+        "CTRL_expressions_eyeSquintInnerR",
+        "CTRL_expressions_eyeCheekRaiseL",
+        "CTRL_expressions_eyeCheekRaiseR",
+        "CTRL_expressions_eyeFaceScrunchL",
+        "CTRL_expressions_eyeFaceScrunchR",
+        "CTRL_expressions_eyeUpperLidUpL",
+        "CTRL_expressions_eyeUpperLidUpR",
+        "CTRL_expressions_eyeRelaxL",
+        "CTRL_expressions_eyeRelaxR",
+        "CTRL_expressions_eyeLowerLidUpL",
+        "CTRL_expressions_eyeLowerLidUpR",
+        "CTRL_expressions_eyeLowerLidDownL",
+        "CTRL_expressions_eyeLowerLidDownR",
+        "CTRL_expressions_eyeLookUpL",
+        "CTRL_expressions_eyeLookUpR",
+        "CTRL_expressions_eyeLookDownL",
+        "CTRL_expressions_eyeLookDownR",
+        "CTRL_expressions_eyeLookLeftL",
+        "CTRL_expressions_eyeLookLeftR",
+        "CTRL_expressions_eyeLookRightL",
+        "CTRL_expressions_eyeLookRightR",
+        "CTRL_expressions_eyePupilWideL",
+        "CTRL_expressions_eyePupilWideR",
+        "CTRL_expressions_eyePupilNarrowL",
+        "CTRL_expressions_eyePupilNarrowR",
+        "CTRL_expressions_eyeParallelLookDirection",
+        "CTRL_expressions_eyelashesUpINL",
+        "CTRL_expressions_eyelashesUpINR",
+        "CTRL_expressions_eyelashesUpOUTL",
+        "CTRL_expressions_eyelashesUpOUTR",
+        "CTRL_expressions_eyelashesDownINL",
+        "CTRL_expressions_eyelashesDownINR",
+        "CTRL_expressions_eyelashesDownOUTL",
+        "CTRL_expressions_eyelashesDownOUTR",
+        "CTRL_expressions_noseWrinkleL",
+        "CTRL_expressions_noseWrinkleR",
+        "CTRL_expressions_noseWrinkleUpperL",
+        "CTRL_expressions_noseWrinkleUpperR",
+        "CTRL_expressions_noseNostrilDepressL",
+        "CTRL_expressions_noseNostrilDepressR",
+        "CTRL_expressions_noseNostrilDilateL",
+        "CTRL_expressions_noseNostrilDilateR",
+        "CTRL_expressions_noseNostrilCompressL",
+        "CTRL_expressions_noseNostrilCompressR",
+        "CTRL_expressions_noseNasolabialDeepenL",
+        "CTRL_expressions_noseNasolabialDeepenR",
+        "CTRL_expressions_mouthCheekSuckL",
+        "CTRL_expressions_mouthCheekSuckR",
+        "CTRL_expressions_mouthCheekBlowL",
+        "CTRL_expressions_mouthCheekBlowR",
+        "CTRL_expressions_mouthLipsBlowL",
+        "CTRL_expressions_mouthLipsBlowR",
+        "CTRL_expressions_mouthLeft",
+        "CTRL_expressions_mouthRight",
+        "CTRL_expressions_mouthUp",
+        "CTRL_expressions_mouthDown",
+        "CTRL_expressions_mouthUpperLipRaiseL",
+        "CTRL_expressions_mouthUpperLipRaiseR",
+        "CTRL_expressions_mouthLowerLipDepressL",
+        "CTRL_expressions_mouthLowerLipDepressR",
+        "CTRL_expressions_mouthCornerPullL",
+        "CTRL_expressions_mouthCornerPullR",
+        "CTRL_expressions_mouthStretchL",
+        "CTRL_expressions_mouthStretchR",
+        "CTRL_expressions_mouthStretchLipsCloseL",
+        "CTRL_expressions_mouthStretchLipsCloseR",
+        "CTRL_expressions_mouthDimpleL",
+        "CTRL_expressions_mouthDimpleR",
+        "CTRL_expressions_mouthCornerDepressL",
+        "CTRL_expressions_mouthCornerDepressR",
+        "CTRL_expressions_mouthPressUL",
+        "CTRL_expressions_mouthPressUR",
+        "CTRL_expressions_mouthPressDL",
+        "CTRL_expressions_mouthPressDR",
+        "CTRL_expressions_mouthLipsPurseUL",
+        "CTRL_expressions_mouthLipsPurseUR",
+        "CTRL_expressions_mouthLipsPurseDL",
+        "CTRL_expressions_mouthLipsPurseDR",
+        "CTRL_expressions_mouthLipsTowardsUL",
+        "CTRL_expressions_mouthLipsTowardsUR",
+        "CTRL_expressions_mouthLipsTowardsDL",
+        "CTRL_expressions_mouthLipsTowardsDR",
+        "CTRL_expressions_mouthFunnelUL",
+        "CTRL_expressions_mouthFunnelUR",
+        "CTRL_expressions_mouthFunnelDL",
+        "CTRL_expressions_mouthFunnelDR",
+        "CTRL_expressions_mouthLipsTogetherUL",
+        "CTRL_expressions_mouthLipsTogetherUR",
+        "CTRL_expressions_mouthLipsTogetherDL",
+        "CTRL_expressions_mouthLipsTogetherDR",
+        "CTRL_expressions_mouthUpperLipBiteL",
+        "CTRL_expressions_mouthUpperLipBiteR",
+        "CTRL_expressions_mouthLowerLipBiteL",
+        "CTRL_expressions_mouthLowerLipBiteR",
+        "CTRL_expressions_mouthLipsTightenUL",
+        "CTRL_expressions_mouthLipsTightenUR",
+        "CTRL_expressions_mouthLipsTightenDL",
+        "CTRL_expressions_mouthLipsTightenDR",
+        "CTRL_expressions_mouthLipsPressL",
+        "CTRL_expressions_mouthLipsPressR",
+        "CTRL_expressions_mouthSharpCornerPullL",
+        "CTRL_expressions_mouthSharpCornerPullR",
+        "CTRL_expressions_mouthStickyUC",
+        "CTRL_expressions_mouthStickyUINL",
+        "CTRL_expressions_mouthStickyUINR",
+        "CTRL_expressions_mouthStickyUOUTL",
+        "CTRL_expressions_mouthStickyUOUTR",
+        "CTRL_expressions_mouthStickyDC",
+        "CTRL_expressions_mouthStickyDINL",
+        "CTRL_expressions_mouthStickyDINR",
+        "CTRL_expressions_mouthStickyDOUTL",
+        "CTRL_expressions_mouthStickyDOUTR",
+        "CTRL_expressions_mouthLipsStickyLPh1",
+        "CTRL_expressions_mouthLipsStickyLPh2",
+        "CTRL_expressions_mouthLipsStickyLPh3",
+        "CTRL_expressions_mouthLipsStickyRPh1",
+        "CTRL_expressions_mouthLipsStickyRPh2",
+        "CTRL_expressions_mouthLipsStickyRPh3",
+        "CTRL_expressions_mouthLipsPushUL",
+        "CTRL_expressions_mouthLipsPushUR",
+        "CTRL_expressions_mouthLipsPushDL",
+        "CTRL_expressions_mouthLipsPushDR",
+        "CTRL_expressions_mouthLipsPullUL",
+        "CTRL_expressions_mouthLipsPullUR",
+        "CTRL_expressions_mouthLipsPullDL",
+        "CTRL_expressions_mouthLipsPullDR",
+        "CTRL_expressions_mouthLipsThinUL",
+        "CTRL_expressions_mouthLipsThinUR",
+        "CTRL_expressions_mouthLipsThinDL",
+        "CTRL_expressions_mouthLipsThinDR",
+        "CTRL_expressions_mouthLipsThickUL",
+        "CTRL_expressions_mouthLipsThickUR",
+        "CTRL_expressions_mouthLipsThickDL",
+        "CTRL_expressions_mouthLipsThickDR",
+        "CTRL_expressions_mouthLipsThinInwardUL",
+        "CTRL_expressions_mouthLipsThinInwardUR",
+        "CTRL_expressions_mouthLipsThinInwardDL",
+        "CTRL_expressions_mouthLipsThinInwardDR",
+        "CTRL_expressions_mouthLipsThickInwardUL",
+        "CTRL_expressions_mouthLipsThickInwardUR",
+        "CTRL_expressions_mouthLipsThickInwardDL",
+        "CTRL_expressions_mouthLipsThickInwardDR",
+        "CTRL_expressions_mouthCornerSharpenUL",
+        "CTRL_expressions_mouthCornerSharpenUR",
+        "CTRL_expressions_mouthCornerSharpenDL",
+        "CTRL_expressions_mouthCornerSharpenDR",
+        "CTRL_expressions_mouthCornerRounderUL",
+        "CTRL_expressions_mouthCornerRounderUR",
+        "CTRL_expressions_mouthCornerRounderDL",
+        "CTRL_expressions_mouthCornerRounderDR",
+        "CTRL_expressions_mouthUpperLipTowardsTeethL",
+        "CTRL_expressions_mouthUpperLipTowardsTeethR",
+        "CTRL_expressions_mouthLowerLipTowardsTeethL",
+        "CTRL_expressions_mouthLowerLipTowardsTeethR",
+        "CTRL_expressions_mouthUpperLipShiftLeft",
+        "CTRL_expressions_mouthUpperLipShiftRight",
+        "CTRL_expressions_mouthLowerLipShiftLeft",
+        "CTRL_expressions_mouthLowerLipShiftRight",
+        "CTRL_expressions_mouthUpperLipRollInL",
+        "CTRL_expressions_mouthUpperLipRollInR",
+        "CTRL_expressions_mouthUpperLipRollOutL",
+        "CTRL_expressions_mouthUpperLipRollOutR",
+        "CTRL_expressions_mouthLowerLipRollInL",
+        "CTRL_expressions_mouthLowerLipRollInR",
+        "CTRL_expressions_mouthLowerLipRollOutL",
+        "CTRL_expressions_mouthLowerLipRollOutR",
+        "CTRL_expressions_mouthCornerUpL",
+        "CTRL_expressions_mouthCornerUpR",
+        "CTRL_expressions_mouthCornerDownL",
+        "CTRL_expressions_mouthCornerDownR",
+        "CTRL_expressions_mouthCornerWideL",
+        "CTRL_expressions_mouthCornerWideR",
+        "CTRL_expressions_mouthCornerNarrowL",
+        "CTRL_expressions_mouthCornerNarrowR",
+        "CTRL_expressions_jawOpen",
+        "CTRL_expressions_jawLeft",
+        "CTRL_expressions_jawRight",
+        "CTRL_expressions_jawFwd",
+        "CTRL_expressions_jawBack",
+        "CTRL_expressions_jawClenchL",
+        "CTRL_expressions_jawClenchR",
+        "CTRL_expressions_jawChinRaiseDL",
+        "CTRL_expressions_jawChinRaiseDR",
+        "CTRL_expressions_jawChinRaiseUL",
+        "CTRL_expressions_jawChinRaiseUR",
+        "CTRL_expressions_jawChinCompressL",
+        "CTRL_expressions_jawChinCompressR",
+        "CTRL_expressions_jawOpenExtreme",
+        "CTRL_expressions_neckStretchL",
+        "CTRL_expressions_neckStretchR",
+        "CTRL_expressions_neckSwallowPh1",
+        "CTRL_expressions_neckSwallowPh2",
+        "CTRL_expressions_neckSwallowPh3",
+        "CTRL_expressions_neckSwallowPh4",
+        "CTRL_expressions_neckMastoidContractL",
+        "CTRL_expressions_neckMastoidContractR",
+        "CTRL_expressions_neckThroatDown",
+        "CTRL_expressions_neckThroatUp",
+        "CTRL_expressions_neckDigastricDown",
+        "CTRL_expressions_neckDigastricUp",
+        "CTRL_expressions_neckThroatExhale",
+        "CTRL_expressions_neckThroatInhale",
+        "CTRL_expressions_teethUpU",
+        "CTRL_expressions_teethUpD",
+        "CTRL_expressions_teethDownU",
+        "CTRL_expressions_teethDownD",
+        "CTRL_expressions_teethLeftU",
+        "CTRL_expressions_teethLeftD",
+        "CTRL_expressions_teethRightU",
+        "CTRL_expressions_teethRightD",
+        "CTRL_expressions_teethFwdU",
+        "CTRL_expressions_teethFwdD",
+        "CTRL_expressions_teethBackU",
+        "CTRL_expressions_teethBackD",
+        "CTRL_expressions_tongueUp",
+        "CTRL_expressions_tongueDown",
+        "CTRL_expressions_tongueLeft",
+        "CTRL_expressions_tongueRight",
+        "CTRL_expressions_tongueOut",
+        "CTRL_expressions_tongueIn",
+        "CTRL_expressions_tongueBendUp",
+        "CTRL_expressions_tongueBendDown",
+        "CTRL_expressions_tongueTwistLeft",
+        "CTRL_expressions_tongueTwistRight",
+        "CTRL_expressions_tongueTipUp",
+        "CTRL_expressions_tongueTipDown",
+        "CTRL_expressions_tongueTipLeft",
+        "CTRL_expressions_tongueTipRight",
+        "CTRL_expressions_tongueWide",
+        "CTRL_expressions_tongueNarrow",
+        "CTRL_expressions_tonguePress",
+        "CTRL_expressions_tongueRoll",
+        "CTRL_expressions_tongueThick",
+        "CTRL_expressions_tongueThin"
+    ]
+}
